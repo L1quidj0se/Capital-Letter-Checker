@@ -3,6 +3,7 @@
   "displayName": "Capital Letter Checker",
   "description": "Every capital letter in a different colour!",
   "version": "0.0.1",
+  "publisher": "L1JB",
   "engines": {
     "vscode": "^1.95.0"
   },
