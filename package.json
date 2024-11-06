@@ -1,7 +1,7 @@
 {
   "name": "capital-letter-checker",
   "displayName": "Capital Letter Checker",
-  "description": "Every capital letter is Bright Red!",
+  "description": "Every capital letter in a different colour!",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
