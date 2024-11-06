@@ -4,6 +4,7 @@
   "description": "Every capital letter in a different colour!",
   "version": "0.0.1",
   "publisher": "L1JB",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/L1quidj0se/Capital-Letter-Checker"},
