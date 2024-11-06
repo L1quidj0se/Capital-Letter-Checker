@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "publisher": "L1JB",
   "license": "MIT",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/L1quidj0se/Capital-Letter-Checker"},
